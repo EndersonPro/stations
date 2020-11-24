@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Gasolinerias</string>
+    <string name="nombre_estacion">Estación</string>
+    <string name="empresa">Empresa</string>
+    <string name="departamento">Departamento</string>
+    <string name="municipio">Municipio</string>
+    <string name="latitud">Latitud</string>
+    <string name="longitud">Longitud</string>
+    <string name="ubicacion">Obtener Ubicacion</string>
+    <string name="ubicacionObtenida">Ubicacion Obtenida</string>
+    <string name="getUbicacion">Obteniendo ubicacion...</string>
+    <string name="glyph_save" translatable="false">&#xe161;</string>
+    <string name="glyph_remove" translatable="false">&#xe872;</string>
+    <string name="glyph_cancel" translatable="false">&#xe5cd;</string>
+    <string name="glyph_log_out" transtatable="false">&#xe879;</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoiZW5kZXJzb25wcm8iLCJhIjoiY2todmlvOHY2MDB2bzMwbXN2cmlheDJqZyJ9.M1wgTh2cAfEudvFh3MKyDg</string>
+</resources>
